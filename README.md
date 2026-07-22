@@ -1,13 +1,13 @@
 # Hi, I'm Raúl Sevilla
 
-Junior Software Developer based in León, Spain. I'm finishing my Computer Engineering degree at the University of León and preparing to start my first professional role as a junior developer.
+Junior Software Developer based in León, Spain. I recently graduated in Computer Engineering from the University of León and I'm looking for my first professional opportunity as a junior software developer.
 
 ## About me
 
-* Final-year Computer Engineering student
+* Computer Engineering graduate from the University of León
 * Interested in backend development, REST APIs, databases and web applications
-* Currently finishing my final degree project on post-quantum cryptography
-* Open to junior, trainee or internship opportunities from July 2026
+* Final degree project focused on post-quantum cryptography
+* Open to junior and trainee opportunities
 
 ## Tech stack
 
